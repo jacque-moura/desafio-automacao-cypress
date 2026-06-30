@@ -1,0 +1,1 @@
+// Arquivo de suporte e2e.js (pode ficar vazio ou com configurações globais)
